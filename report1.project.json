@@ -1,0 +1,227 @@
+{
+  "name": "Báo cáo thủ công - 3 Lỗ Hổng",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "branding": {
+    "username": "escbasexyz",
+    "accentColor": "#EF4444"
+  },
+  "slides": [
+    {
+      "id": "slide_1",
+      "type": "title",
+      "durationInFrames": 362,
+      "icon": "📊",
+      "title": "Sếp cầm báo cáo quán",
+      "titleAccent": "ngày thấy",
+      "bullets": [
+        {
+          "icon": "💬",
+          "text": "Sếp cầm báo cáo quán ngày th ",
+          "boldText": "ấy mọi thứ vẫn sáng,",
+          "delay": 0
+        },
+        {
+          "icon": "🔥",
+          "text": "nhưng thực tế đơn hàng  ",
+          "boldText": "lại chế tiến độ.",
+          "delay": 93
+        },
+        {
+          "icon": "⚡",
+          "text": "Tại sao lại có nghiệp lý này? Đây là ",
+          "boldText": " 3 lỗ hồng chết người của",
+          "delay": 170
+        },
+        {
+          "icon": "🚀",
+          "text": "báo cáo th ",
+          "boldText": "u công.",
+          "delay": 281
+        }
+      ]
+    },
+    {
+      "id": "slide_2",
+      "type": "list",
+      "durationInFrames": 487,
+      "icon": "1️⃣",
+      "title": "Thứ",
+      "titleAccent": "Thứ nhất",
+      "bullets": [
+        {
+          "icon": "💬",
+          "text": "Thứ nhất, dưỡi liệu l ",
+          "boldText": "uôn có độ chế.",
+          "delay": 0
+        },
+        {
+          "icon": "🔥",
+          "text": "Bún giờ chiều có báo cáo nhưng máy ",
+          "boldText": " hồng từ chính rửa sáng,",
+          "delay": 99
+        },
+        {
+          "icon": "⚡",
+          "text": "sự cụ đã xong xuôi phế phẩm đã giải đầy  ",
+          "boldText": "sưởng rồi thì sếp mới biết.",
+          "delay": 210
+        },
+        {
+          "icon": "🚀",
+          "text": "Quản lý kiểu này là quản lý ",
+          "boldText": " chạy theo hộ quà.",
+          "delay": 351
+        }
+      ]
+    },
+    {
+      "id": "slide_3",
+      "type": "list",
+      "durationInFrames": 385,
+      "icon": "2️⃣",
+      "title": "Cứ",
+      "titleAccent": "Cứ hãy",
+      "bullets": [
+        {
+          "icon": "💬",
+          "text": "Cứ hãy Má chận  ",
+          "boldText": "số liệu áo.",
+          "delay": 0
+        },
+        {
+          "icon": "🔥",
+          "text": "Công nhân tự đếm sản  ",
+          "boldText": "phẩm tự ghi số,",
+          "delay": 89
+        },
+        {
+          "icon": "⚡",
+          "text": "sai số là chuyện đường  ",
+          "boldText": "nhiên. Thậm chí,",
+          "delay": 165
+        },
+        {
+          "icon": "🚀",
+          "text": "nhiều nơi còn làm chòn số liệu để ",
+          "boldText": " đối phó với định mức.",
+          "delay": 242
+        }
+      ]
+    },
+    {
+      "id": "slide_4",
+      "type": "grid",
+      "durationInFrames": 148,
+      "icon": "3️⃣",
+      "title": "Sép nhìn vào giữ liệu sai",
+      "titleAccent": "thì ",
+      "items": [
+        {
+          "icon": "💬",
+          "text": "Sép nhìn vào giữ liệu sai thì làm  sao ra quyết định đúng?",
+          "delay": 0
+        }
+      ]
+    },
+    {
+      "id": "slide_5",
+      "type": "tag",
+      "durationInFrames": 416,
+      "icon": "🏷️",
+      "title": "Thứ",
+      "titleAccent": "Thứ ba",
+      "subtitle": "Thứ ba, rơi rạc và chắp và ... Khó báo vật từ con nhưng sưởn",
+      "tags": [
+        {
+          "text": "#Thứba,rơirạcvàc",
+          "color": "#10B981",
+          "delay": 0
+        },
+        {
+          "text": "#Khóbáovậttừconn",
+          "color": "#3B82F6",
+          "delay": 100
+        },
+        {
+          "text": "#Giữliệutừkhó,sư",
+          "color": "#8B5CF6",
+          "delay": 191
+        },
+        {
+          "text": "#Bútxa,gàchết,",
+          "color": "#F59E0B",
+          "delay": 303
+        }
+      ]
+    },
+    {
+      "id": "slide_6",
+      "type": "title",
+      "durationInFrames": 155,
+      "icon": "📊",
+      "title": "mất thời gian đi tìm",
+      "titleAccent": "lũi rồi",
+      "bullets": [
+        {
+          "icon": "💬",
+          "text": "mất thời gian đi tìm lũi rồi. Thầy ",
+          "boldText": " vì tìm cách giải quyết.",
+          "delay": 0
+        }
+      ]
+    },
+    {
+      "id": "slide_7",
+      "type": "list",
+      "durationInFrames": 288,
+      "icon": "1️⃣",
+      "title": "Đã đến lúc vứt mỏ những",
+      "titleAccent": "tờ giấ",
+      "bullets": [
+        {
+          "icon": "💬",
+          "text": "Đã đến lúc vứt mỏ những tờ giấy g ",
+          "boldText": "hi chép lấm lèm dầu mỡ.",
+          "delay": 0
+        },
+        {
+          "icon": "🔥",
+          "text": "Quản lý sản xuất hiện đại là phải thích được ",
+          "boldText": " dưỡng liệu ngay tại thời gian",
+          "delay": 118
+        },
+        {
+          "icon": "⚡",
+          "text": "thự ",
+          "boldText": "c.",
+          "delay": 211
+        }
+      ]
+    },
+    {
+      "id": "slide_8",
+      "type": "list",
+      "durationInFrames": 139,
+      "icon": "2️⃣",
+      "title": "Nhà máy của bạn vẫn đang",
+      "titleAccent": "quản ",
+      "bullets": [
+        {
+          "icon": "💬",
+          "text": "Nhà máy của bạn vẫn đang quả ",
+          "boldText": "n lý bằng Xeo trước.",
+          "delay": 0
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "type": "outro",
+      "durationInFrames": 150,
+      "platform": "tiktok",
+      "username": "escbasexyz"
+    }
+  ]
+}

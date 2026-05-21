@@ -1,0 +1,92 @@
+1
+00:00:00,000 --> 00:00:04,000
+OpenAI với nếm ra một quả bòm mang tên GPT-5.
+
+2
+00:00:04,500 --> 00:00:10,000
+Không giáo trước đón sau, họ tông thắng bằng benchmark từ MinoBange và OSworld.
+
+3
+00:00:10,500 --> 00:00:17,000
+Debate on top cloud open 4.7 và Germany-3.1 Pro ở khả năng sử dụng máy tính thực thụ.
+
+4
+00:00:17,500 --> 00:00:25,000
+Thông điệp của OpenAI vô cùng rõ ràng, GPT-5.5 không chỉ là một quốc máy biết trở lời câu hỏi hay hơn mặt cu
+
+5
+00:00:25,000 --> 00:00:28,000
+nó xinh ra để tháo tác chức tiếp trên máy tính
+
+6
+00:00:28,000 --> 00:00:33,000
+vết cốt, tự đi bác, phần tích dưỡi liệu và nhỏe qua lại giữa các phần mềm
+
+7
+00:00:33,000 --> 00:00:37,000
+điểm đáng tên nhất của đợt ra mắt này nằm ở đội chế
+
+8
+00:00:37,000 --> 00:00:44,000
+dù thông minh hơn nhưng dbT 5.5 lại có tốt độ phản hồi ngang ngửa với dbT 5.4
+
+9
+00:00:44,000 --> 00:00:48,840
+giải quyết được bài toán hốc bố nhất là môi hình căng sị thì chạy càng dù bò.
+
+10
+00:00:48,840 --> 00:00:52,960
+Sự tin hoá này thể hiện rõ nhất trên sân trời lập trình Codex.
+
+11
+00:00:52,960 --> 00:00:56,280
+Nó nhớ context tốt hơn qua hàng ngàn giống cốt,
+
+12
+00:00:56,280 --> 00:00:58,960
+dùng ít tốc cình hơn cho cùng một tắc vụ
+
+13
+00:00:58,960 --> 00:01:01,280
+và tập trí còn tự biết đoán trước
+
+14
+00:01:01,280 --> 00:01:04,240
+lúc nào cần kiểm thử và review mãng huồn.
+
+15
+00:01:04,240 --> 00:01:06,500
+Nhưng có phải mọi thứ đều hoàn hảo.
+
+16
+00:01:06,500 --> 00:01:09,700
+Biến AI thành một hệ thống tất thí công việc dài hạn,
+
+17
+00:01:09,700 --> 00:01:12,500
+đôi hỏi khả năng rữ phong độ cực kỳ bên bị.
+
+18
+00:01:12,500 --> 00:01:16,500
+Khi đúng phải giữ liệu bẩn và những quy trình đặt thu của dân nghiệp,
+
+19
+00:01:16,500 --> 00:01:20,500
+độ thông minh không phải lúc nào cũng đi kèm với sự đáng tìm cây.
+
+20
+00:01:20,500 --> 00:01:31,000
+Một tiến hiệu đang trủ ý là ốc của NEI bắt đầu lần sân rằng cả nghiên cứua học, chạm để những mảng khó nhân, như tóán học, sinh học và phân tích bộ Zen.
+
+21
+00:01:31,000 --> 00:01:37,000
+Cho thấy tham vọng đưa AE cho thành những nhà khoa học thực tụ, chứ không dừng lại ở nhân viên văn phòng.
+
+22
+00:01:37,000 --> 00:01:45,000
+Kỉnh huyen làm việc chực tiếp với máy tính đã chính thức bắt đầu. Bạn sẽ là người dau việc hay trở thành người bị thay thế.
+
+23
+00:01:45,000 --> 00:01:50,000
+Follow ESCBZ để luôn cập nhật những chuyển động mới nhất của ai y nhất.
+

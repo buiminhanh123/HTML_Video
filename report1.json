@@ -1,0 +1,148 @@
+{
+  "name": "Báo cáo thủ công - 3 Lỗ Hổng",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "branding": {
+    "username": "escbasexyz",
+    "accentColor": "#f26522"
+  },
+  "slides": [
+    {
+      "id": "s1",
+      "type": "title",
+      "durationInFrames": 330,
+      "icon": "📊",
+      "title": "3 Lỗ Hổng",
+      "titleAccent": "Chết Người",
+      "bullets": [
+        {
+          "icon": "📋",
+          "text": "Sếp cầm báo cáo thấy mọi thứ vẫn sáng, ",
+          "boldText": "nhưng thực tế đơn hàng lại chậm tiến độ",
+          "delay": 14
+        },
+        {
+          "icon": "❓",
+          "text": "Tại sao ",
+          "boldText": "lại có nghịch lý này?",
+          "delay": 183
+        },
+        {
+          "icon": "🚨",
+          "text": "Đây là 3 lỗ hổng chết người ",
+          "boldText": "của báo cáo thủ công",
+          "delay": 239
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "type": "list",
+      "durationInFrames": 510,
+      "icon": "1️⃣",
+      "title": "Thứ Nhất",
+      "titleAccent": "Dữ Liệu Có Độ Trễ",
+      "bullets": [
+        {
+          "icon": "⏰",
+          "text": "Buổi chiều có báo cáo nhưng ",
+          "boldText": "máy hỏng từ chính buổi sáng",
+          "delay": 30
+        },
+        {
+          "icon": "🔥",
+          "text": "Sự cố đã xong xuôi, phế phẩm đã đầy xưởng ",
+          "boldText": "rồi thì sếp mới biết",
+          "delay": 150
+        },
+        {
+          "icon": "🏃",
+          "text": "Quản lý kiểu này ",
+          "boldText": "là quản lý chạy theo hậu quả",
+          "delay": 240
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "type": "list",
+      "durationInFrames": 510,
+      "icon": "2️⃣",
+      "title": "Thứ Hai",
+      "titleAccent": "Mất Chính Xác Số Liệu",
+      "bullets": [
+        {
+          "icon": "✍️",
+          "text": "Công nhân tự đếm sản phẩm, tự ghi số. ",
+          "boldText": "Sai số là chuyện đương nhiên",
+          "delay": 60
+        },
+        {
+          "icon": "🤥",
+          "text": "Thậm chí, nhiều nơi còn ",
+          "boldText": "làm tròn số liệu để đối phó định mức",
+          "delay": 180
+        },
+        {
+          "icon": "❌",
+          "text": "Sếp nhìn vào dữ liệu sai ",
+          "boldText": "thì làm sao ra quyết định đúng?",
+          "delay": 310
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "type": "grid",
+      "durationInFrames": 480,
+      "icon": "3️⃣",
+      "title": "Thứ Ba",
+      "titleAccent": "Rời Rạc & Chắp Vá",
+      "items": [
+        {
+          "icon": "📦",
+          "text": "Kho báo vật tư còn, nhưng xưởng trạy lại hết",
+          "delay": 30
+        },
+        {
+          "icon": "📊",
+          "text": "Dữ liệu kho, xưởng, phòng kinh doanh không đồng nhất",
+          "delay": 120
+        },
+        {
+          "icon": "⏳",
+          "text": "Bút xa, gà chết — mất thời gian đi tìm lỗi",
+          "delay": 225
+        },
+        {
+          "icon": "🔧",
+          "text": "Thay vì tìm cách giải quyết",
+          "delay": 310
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "type": "tag",
+      "durationInFrames": 420,
+      "icon": "🏭",
+      "title": "Quản Lý",
+      "titleAccent": "Sản Xuất Hiện Đại",
+      "subtitle": "Đã đến lúc vứt bỏ những tờ giấy ghi chép lấm lem dầu mỡ",
+      "tags": [
+        { "text": "#RealTimeData", "color": "#10B981", "delay": 60 },
+        { "text": "#DữLiệuThờiGianThực", "color": "#3B82F6", "delay": 120 },
+        { "text": "#SmartFactory", "color": "#8B5CF6", "delay": 180 },
+        { "text": "#NoMoreExcel", "color": "#F59E0B", "delay": 240 }
+      ]
+    },
+    {
+      "id": "s6",
+      "type": "outro",
+      "durationInFrames": 150,
+      "platform": "tiktok",
+      "username": "escbasexyz"
+    }
+  ]
+}
